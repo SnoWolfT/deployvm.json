@@ -1,0 +1,2 @@
+# deployvm.json
+adfsdeployvm.json
